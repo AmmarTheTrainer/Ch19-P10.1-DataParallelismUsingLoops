@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\bin\Debug\Ch19-P10.1-DataParallelismUsingLoops.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\bin\Debug\Ch19-P10.1-DataParallelismUsingLoops.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\bin\Debug\Ch19-P10.1-DataParallelismUsingLoops.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\obj\Debug\Ch19-P10.1-DataParallelismUsingLoops.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\obj\Debug\Ch19-P10.1-DataParallelismUsingLoops.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\obj\Debug\Ch19-P10.1-DataParallelismUsingLoops.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch19-P10.1-DataParallelismUsingLoops\Ch19-P10.1-DataParallelismUsingLoops\obj\Debug\Ch19-P10.1-DataParallelismUsingLoops.pdb
