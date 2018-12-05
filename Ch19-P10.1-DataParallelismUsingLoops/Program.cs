@@ -79,8 +79,6 @@ namespace Ch19_P10._1_DataParallelismUsingLoops
                 //close lambda expression and method invocation
             });
 
-
-
             //// Method signature: Parallel.ForEach(IEnumerable<TSource> source, Action<TSource> body)
             //// Be sure to add a reference to System.Drawing.dll.
             //foreach (var currentFile in files)
